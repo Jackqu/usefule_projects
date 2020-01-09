@@ -1,1 +1,2 @@
-- calculate model flops: https://github.com/sovrasov/flops-counter.pytorch calculate model flops: 
+- calculate model flops: https://github.com/sovrasov/flops-counter.pytorch: 
+- yolo v3 pytorch version: https://github.com/eriklindernoren/PyTorch-YOLOv3
